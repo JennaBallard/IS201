@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgb(128, 165, 137);
+    background-color: rgba(0, 128, 0, 0.048);
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: rgb(68, 128, 122);
+    text-decoration: none;
+}
+a:hover{text-decoration: underline;}
+
+a:visited { 
+    color: rgb(7, 58, 74);
+}
+
+h1 {color:rgb(14, 112, 121);}
+.resumestyle {
+    font-weight: bold;
+    font-style: normal;
+}
+.justify{text-align: justify;}
